@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1645618393 source:c:\users\elze\desktop\univero darbai\c++\chatbot5000\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<time.h>
+	<fstream>
+
